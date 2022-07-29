@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou estudante no Curso de Anásile e Desenvolvimento de Sistemas - UNIFBV Wyden.
 - 🌱 Estudando Front-End.
-- 👯 LinkedIn: https://www.linkedin.com/in/thiago-cipriano/
+- 🔸 LinkedIn: https://www.linkedin.com/in/thiago-cipriano/
 - 📫 Contate-me em: thiagocipriano@outlook.com.br
 
 ##
