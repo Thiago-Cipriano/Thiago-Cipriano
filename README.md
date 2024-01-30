@@ -1,6 +1,6 @@
 ## Olá, Eu sou Thiago Cipriano. ##
 
-- 🔭 Atualmente sou estudante no Curso de Anásile e Desenvolvimento de Sistemas - UNIFBV Wyden.
+- 🔭 Formado no Curso de Anásile e Desenvolvimento de Sistemas - UNIFBV Wyden.
 - 🌱 Estudando desenvolvimento Front-End.
 - 🔸 LinkedIn: https://www.linkedin.com/in/thiago-cipriano/
 - 📫 Contate-me em: thiagocipriano@outlook.com.br
@@ -21,6 +21,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/angular-original.svg">
  </div>
  
  ##
